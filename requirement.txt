@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pandas
+google-search-results  # SerpAPI (free tier available)
+openai                 # or anthropic, whichever you prefer for the LLM layer
+lxml
